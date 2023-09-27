@@ -1,0 +1,442 @@
+.radius-2{
+    border-radius: 2px;
+}
+.radius-4{
+    border-radius: 4px;
+}
+.radius-6{
+    border-radius: 6px;
+}
+.radius-8{
+    border-radius: 8px;
+}
+.radius-10{
+    border-radius: 10px;
+}
+/*--------------------------------- Padding bottom Small ----------------------------*/
+.smallSize1-bottom{
+    padding-bottom: 4px;
+}
+.smallSize2-bottom{
+    padding-bottom: 8px;
+}
+.smallSize3-bottom{
+    padding-bottom: 12px;
+}
+.smallSize4-bottom{
+    padding-bottom: 16px;
+}
+.smallSize5-bottom{
+    padding-bottom: 20px;
+}
+.smallSize6-bottom{
+    padding-bottom: 24px;
+}
+/*````````````````````````````````` Padding bottom Small `````````````````````````````*/
+/*--------------------------------- Padding bottom Medium ----------------------------*/
+.mediumSize1-bottom{
+    padding-bottom: 32px;
+}
+.mediumSize2-bottom{
+    padding-bottom: 36px;
+}
+.mediumSize3-bottom{
+    padding-bottom: 40px;
+}
+.mediumSize4-bottom{
+    padding-bottom: 44px;
+}
+.mediumSize5-bottom{
+    padding-bottom: 48px;
+}
+.mediumSize6-bottom{
+    padding-bottom: 56px;
+}
+/*`````````````````````````````````Padding bottom Medium ```````````````````````````*/
+/*---------------------------------Padding bottom Large ----------------------------*/
+.largeSize1-bottom{
+    padding-bottom: 64px;
+}
+.largeSize2-bottom{
+    padding-bottom: 72px;
+}
+.largeSize3-bottom{
+    padding-bottom: 96px;
+}
+.largeSize4-bottom{
+    padding-bottom: 104px;
+}
+.largeSize5-bottom{
+    padding-bottom: 120px;
+}
+.largeSize6-bottom{
+    padding-bottom: 140px;
+}
+.rgeSize7-bottom{
+    padding-bottom: 180px;
+}
+/*`````````````````````````````````Padding bottom Large```````````````````````````*/
+/*--------------------------------- Padding top Small ----------------------------*/
+.smallSize1-top{
+    padding-top: 4px;
+}
+.smallSize2-top{
+    padding-top: 8px;
+}
+.smallSize3-top{
+    padding-top: 12px;
+}
+.smallSize4-top{
+    padding-top: 16px;
+}
+.smallSize5-top{
+    padding-top: 20px;
+}
+.smallSize6-top{
+    padding-top: 24px;
+}
+/*````````````````````````````````` Padding top Small `````````````````````````````*/
+/*--------------------------------- Padding top Medium ----------------------------*/
+.mediumSize1-top{
+    padding-top: 32px;
+}
+.mediumSize2-top{
+    padding-top: 36px;
+}
+.mediumSize3-top{
+    padding-top: 40px;
+}
+.mediumSize4-top{
+    padding-top: 44px;
+}
+.mediumSize5-top{
+    padding-top: 48px;
+}
+.mediumSize6-top{
+    padding-top: 56px;
+}
+/*`````````````````````````````````Padding top Medium ```````````````````````````*/
+/*---------------------------------Padding top Large ----------------------------*/
+.largeSize1-top{
+    padding-top: 64px;
+}
+.largeSize2-top{
+    padding-top: 72px;
+}
+.largeSize3-top{
+    padding-top: 96px;
+}
+.largeSize4-top{
+    padding-top: 104px;
+}
+.largeSize5-top{
+    padding-top: 120px;
+}
+.largeSize6-top{
+    padding-top: 140px;
+}
+.largeSize7-top{
+    padding-top: 180px;
+}
+/*`````````````````````````````````Padding top Large```````````````````````````*/
+/*---------------------------------Padding Left Small ----------------------------*/
+.smallSize1-left{
+    padding-left: 4px;
+}
+.smallSize2-left{
+    padding-left: 8px;
+}
+.smallSize3-left{
+    padding-left: 12px;
+}
+.smallSize4-left{
+    padding-left: 16px;
+}
+.smallSize5-left{
+    padding-left: 20px;
+}
+.smallSize6-left{
+    padding-left: 24px;
+}
+/*`````````````````````````````````` Padding Left Small ````````````````````````````*/
+/*--------------------------------- Padding Left medium ----------------------------*/
+.mediumSize1-left{
+    padding-left: 36px;
+}
+.mediumSize2-left{
+    padding-left: 40px;
+}
+.mediumSize3-left{
+    padding-left: 44px;
+}
+.mediumSize4-left{
+    padding-left: 48px;
+}
+.mediumSize5-left{
+    padding-left: 56px;
+}
+.mediumSize6-left{
+    padding-left: 64px;
+}
+/*`````````````````````````````````Padding Left medium `````````````````````````*/
+/*---------------------------------Tabs Screens ----------------------------*/
+@media screen and (max-width: 992px){
+      /*---------------------------------Padding bottom small tabs screens----------------------------*/
+    .smallSize1-bottom{
+        padding-bottom: 4px;
+    }
+    .smallSize2-bottom{
+        padding-bottom: 8px;
+    }
+    .smallSize3-bottom{
+        padding-bottom: 12px;
+    }
+    .smallSize4-bottom{
+        padding-bottom: 16px;
+    }
+    .smallSize5-bottom{
+        padding-bottom: 16px;
+    }
+    .smallSize6-bottom{
+        padding-bottom: 20px;
+    }
+    /*```````````````````````````````````Padding bottom small tabs screens``````````````````````````*/
+    /*---------------------------------Padding bottom Medium tabs screens ----------------------------*/
+    .mediumSize1-bottom{
+        padding-bottom: 20px;
+    }
+    .mediumSize2-bottom{
+        padding-bottom: 24px;
+    }
+    .mediumSize3-bottom{
+        padding-bottom: 28px;
+    }
+    .mediumSize4-bottom{
+        padding-bottom: 32px;
+    }
+    .mediumSize5-bottom{
+        padding-bottom: 36px;
+    }
+    .mediumSize6-bottom{
+        padding-bottom: 40px;
+    }
+    /*`````````````````````````````````Padding bottom Medium tabs screens ``````````````````````````*/
+    /*---------------------------------Padding bottom Large tabs screens----------------------------*/
+    .largeSize1-bottom{
+        padding-bottom: 48px;
+    }
+    .largeSize2-bottom{
+        padding-bottom: 56px;
+    }
+    .largeSize3-bottom{
+        padding-bottom: 64px;
+    }
+    .largeSize4-bottom{
+        padding-bottom: 72px;
+    }
+    .largeSize5-bottom{
+        padding-bottom: 96px;
+    }
+    .largeSize6-bottom{
+        padding-bottom: 104px;
+    }
+    .largeSize7-bottom{
+        padding-bottom: 120px;
+    }
+    /*```````````````````````````````````Padding bottom Large tabs screens``````````````````````````*/
+         /*---------------------------------Padding bottom small tabs screens----------------------------*/
+         .smallSize1-top{
+            padding-top: 4px;
+        }
+        .smallSize2-top{
+            padding-top: 8px;
+        }
+        .smallSize3-top{
+            padding-top: 12px;
+        }
+        .smallSize4-top{
+            padding-top: 16px;
+        }
+        .smallSize5-top{
+            padding-top: 16px;
+        }
+        .smallSize6-top{
+            padding-top: 20px;
+        }
+        /*```````````````````````````````````Padding top small tabs screens``````````````````````````*/
+        /*---------------------------------Padding top Medium tabs screens ----------------------------*/
+        .mediumSize1-top{
+            padding-top: 20px;
+        }
+        .mediumSize2-top{
+            padding-top: 24px;
+        }
+        .mediumSize3-top{
+            padding-top: 28px;
+        }
+        .mediumSize4-top{
+            padding-top: 32px;
+        }
+        .mediumSize5-top{
+            padding-top: 36px;
+        }
+        .mediumSize6-top{
+            padding-top: 40px;
+        }
+        /*`````````````````````````````````Padding top Medium tabs screens ``````````````````````````*/
+        /*---------------------------------Padding top Large tabs screens----------------------------*/
+        .largeSize1-top{
+            padding-top: 48px;
+        }
+        .largeSize2-top{
+            padding-top: 56px;
+        }
+        .largeSize3-top{
+            padding-top: 64px;
+        }
+        .largeSize4-top{
+            padding-top: 72px;
+        }
+        .largeSize5-top{
+            padding-top: 96px;
+        }
+        .largeSize6-top{
+            padding-top: 104px;
+        }
+        .largeSize7-top{
+            padding-top: 120px;
+        }
+        /*```````````````````````````````````Padding top Large tabs screens``````````````````````````*/
+}
+/*```````````````````````````````````````Tabs Screens end````````````````````````````````````````*/
+/*---------------------------------Mobile Screens ----------------------------*/
+@media screen and (max-width: 767px){
+     /*---------------------------------Padding bottom small tabs screens----------------------------*/
+     .smallSize1-bottom{
+        padding-bottom: 4px;
+    }
+    .smallSize2-bottom{
+        padding-bottom: 8px;
+    }
+    .smallSize3-bottom{
+        padding-bottom: 12px;
+    }
+    .smallSize4-bottom{
+        padding-bottom: 12px;
+    }
+    .smallSize5-bottom{
+        padding-bottom: 16px;
+    }
+    .smallSize6-bottom{
+        padding-bottom: 16px;
+    }
+    /*```````````````````````````````````Padding bottom small tabs screens``````````````````````````*/
+    /*---------------------------------Padding bottom Medium Mobile screens ----------------------------*/
+    .mediumSize1-bottom{
+        padding-bottom: 20px;
+    }
+    .mediumSize2-bottom{
+        padding-bottom: 24px;
+    }
+    .mediumSize3-bottom{
+        padding-bottom: 28px;
+    }
+    .mediumSize4-bottom{
+        padding-bottom: 32px;
+    }
+    .mediumSize5-bottom{
+        padding-bottom: 36px;
+    }
+    .mediumSize6-bottom{
+        padding-bottom: 40px;
+    }
+    /*``````````````````````````````````Padding bottom Medium Mobile screens `````````````````````````*/
+    /*---------------------------------Padding bottom Large Mobile screens----------------------------*/
+    .largeSize1-bottom{
+        padding-bottom: 44px;
+    }
+    .largeSize2-bottom{
+        padding-bottom: 48px;
+    }
+    .largeSize3-bottom{
+        padding-bottom: 56px;
+    }
+    .largeSize4-bottom{
+        padding-bottom: 64px;
+    }
+    .largeSize5-bottom{
+        padding-bottom: 72px;
+    }
+    .largeSize6-bottom{
+        padding-bottom: 96px;
+    }
+    .largeSize7-bottom{
+        padding-bottom: 104px;
+    }
+    /*`````````````````````````````Padding bottom Large Mobile screens```````````*/
+    /*---------------------------------Padding bottom small tabs screens----------------------------*/
+    .smallSize1-top{
+        padding-top: 4px;
+    }
+    .smallSize2-top{
+        padding-top: 8px;
+    }
+    .smallSize3-top{
+        padding-top: 12px;
+    }
+    .smallSize4-top{
+        padding-top: 12px;
+    }
+    .smallSize5-top{
+        padding-top: 16px;
+    }
+    .smallSize6-top{
+        padding-top: 16px;
+    }
+    /*```````````````````````````````````Padding top small tabs screens``````````````````````````*/
+    /*---------------------------------Padding top Medium Mobile screens ----------------------------*/
+    .mediumSize1-top{
+        padding-top: 20px;
+    }
+    .mediumSize2-top{
+        padding-top: 24px;
+    }
+    .mediumSize3-top{
+        padding-top: 28px;
+    }
+    .mediumSize4-top{
+        padding-top: 32px;
+    }
+    .mediumSize5-top{
+        padding-top: 36px;
+    }
+    .mediumSize6-top{
+        padding-top: 40px;
+    }
+    /*``````````````````````````````````Padding top Medium Mobile screens `````````````````````````*/
+    /*---------------------------------Padding top Large Mobile screens----------------------------*/
+    .largeSize1-top{
+        padding-top: 44px;
+    }
+    .largeSize2-top{
+        padding-top: 48px;
+    }
+    .largeSize3-top{
+        padding-top: 56px;
+    }
+    .largeSize4-top{
+        padding-top: 64px;
+    }
+    .largeSize5-top{
+        padding-top: 72px;
+    }
+    .largeSize6-top{
+        padding-top: 96px;
+    }
+    .largeSize7-top{
+        padding-top: 104px;
+    }
+    /*`````````````````````````````Padding top Large Mobile screens```````````*/
+}
+/*`````````````````````````````````Mobile Screens end`````````````````````````````*/
+
